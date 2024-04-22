@@ -1,5 +1,5 @@
 # Time-minds
-
+This project delves into the utilization of Java web tokens for remote authentication. The primary use case encompasses authentication scenarios requiring an offline backup or offline functionality as a primary requirement. However, the applications extend beyond, spanning from event ticketing to various offline authentication needs.
 
 https://github.com/DennisNetto/Time-minds/assets/56895789/5f56e329-95f8-4f43-a44d-7f84c7b76e62
 
