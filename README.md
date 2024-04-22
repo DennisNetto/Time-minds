@@ -1,5 +1,6 @@
 # Time-minds
 
+This project leverages Django to develop an employee time tracking system. This comprehensive system empowers employers to efficiently schedule shifts, manage recurring schedules, oversee workers and clients, as well as streamline time sheet management and spreadsheet generation.
 
 https://github.com/DennisNetto/Time-minds/assets/56895789/5f56e329-95f8-4f43-a44d-7f84c7b76e62
 
