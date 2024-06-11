@@ -2,6 +2,8 @@
 
 This project leverages Django to develop an employee time tracking system. This comprehensive system empowers employers to efficiently schedule shifts, manage recurring schedules, oversee workers and clients, as well as streamline time sheet management and spreadsheet generation.
 
+Original-(https://github.com/DennisNetto/Eden_1.1)
+
 https://github.com/DennisNetto/Time-minds/assets/56895789/5f56e329-95f8-4f43-a44d-7f84c7b76e62
 
 https://github.com/DennisNetto/Time-minds/assets/56895789/d59c5b96-1736-46e8-a98d-7e50430fe51c
